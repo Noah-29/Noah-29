@@ -72,7 +72,7 @@ Je me passionne pour l’administration des systèmes, des réseaux de la cybers
 * **Contexte** : Projet de fin d'études / Portfolio personnel.
 * **Description** : Conception et déploiement d'une plateforme web centralisée servant de vitrine pour mes compétences en administration système et réseau.hébergé sur un vps (configurer par mes soin) et sécurisé par un reverse proxy.
 * **Technologies utilisées** : HTML5, CSS3, Nginx, Node.js, Ubuntu 24.04 LTS.
-* 🔗 213.32.20.241
+* 🔗 https://noah-vosgien-portfolio.duckdns.org/ 
 
 ---
 
