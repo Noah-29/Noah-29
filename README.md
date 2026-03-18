@@ -1,6 +1,6 @@
-# Bonjour, je suis Noah Vosgien 👋
+# Bonjour, je suis Noah Vosgien 👋🏻
 
-Je me passionne pour l’administration systèmes, les réseaux et la cybersécurité. 
+Je me passionne pour l’administration des systèmes, des réseaux de la cybersécurité et plus récemment de l'IA.
 
 ---
 
@@ -40,7 +40,7 @@ Je me passionne pour l’administration systèmes, les réseaux et la cybersécu
 ### 🤖 Développement & Intelligence Artificielle
 * **Intégration IA** : Connexion à l'API Google Gemini (modèles Flash) et ingénierie de prompts.
 * **Backend** : Développement de serveurs Node.js / Express pilotés par le gestionnaire de processus PM2.
-* **Langages de programmation** : HTML5, CSS3, JavaScript, Phyton...
+* **Langages de programmation** : HTML5, CSS3, JavaScript, Python...
 
 ### 💻 Scripting & Support
 * **Automatisation** : Scripts PowerShell et Bash.
@@ -56,7 +56,7 @@ Je me passionne pour l’administration systèmes, les réseaux et la cybersécu
 * Déploiement, intégration d'applications et configuration de serveurs Nginx
 * Etude comparative et veille technologique sur les solutions d'hébergement Cloud.
 * Déploiement de solutions web
-* Création et mis en oeuvre de script d'installation de serveur DHCP.
+* Création et mise en oeuvre de script d'installation de serveur DHCP.
 
 ---
 
