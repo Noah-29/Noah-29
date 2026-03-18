@@ -79,7 +79,7 @@ Je me passionne pour l’administration des systèmes, des réseaux de la cybers
 ## 📫 Me Contacter / En savoir plus
 
 * 💼 **LinkedIn** : https://www.linkedin.com/in/noah-vosgien-a8445b303/
-* 📄 **Curriculum Vitae** : [Lien vers ton CV en format PDF - Astuce: héberge ton CV sur un Google Drive public ou directement dans ce repo GitHub et mets le lien ici]
+* 📄 **Curriculum Vitae** : https://github.com/Noah-29/Noah-29/blob/main/CV%20Vosgien%20Noah.pdf
 * ✉️ **Email** : noahvosgien25@gmail.com
 
 ⭐️ *N'hésitez pas à me contacter pour toute opportunité d'alternance ou pour échanger sur mes projets !*
