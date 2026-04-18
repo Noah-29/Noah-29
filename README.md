@@ -65,13 +65,13 @@ Je me passionne pour l’administration des systèmes, des réseaux de la cybers
 ### 📁 Infrastructure Cloud & IA : Déploiement d'un écosystème Web sécurisé
 * **Contexte** : Projet personnel (Atelier de professionnalisation SISR).
 * **Description** : Mise en place d'un serveur VPS sous Ubuntu 24.04 avec une isolation stricte des flux réseaux via Nginx (Portfolio sur le port 80 et environnement de test sur le port 8080). Intégration d'un agent conversationnel intelligent "Le Mécano" exploitant l'API Google Gemini via un backend Node.js sécurisé et maintenu en haute disponibilité par PM2.
-* **Technologies utilisées** : Ubuntu 24.04 LTS, Nginx (Reverse Proxy), Node.js (Express), PM2, API Google Gemini (Modèles Flash), Pare-feu UFW & OVH.
+* **Technologies utilisées** : Ubuntu , Nginx (Reverse Proxy), Node.js , PM2, API Google Gemini, Pare-feu UFW & OVH.
 * 🔗 http://213.32.20.241:8080/
 
 ### 📁 Portfolio Professionnel : Hub de Services & Vitrine Technique
 * **Contexte** : Projet de fin d'études / Portfolio personnel.
 * **Description** : Conception et déploiement d'une plateforme web centralisée servant de vitrine pour mes compétences en administration système et réseau.hébergé sur un vps (configurer par mes soin) et sécurisé par un reverse proxy.
-* **Technologies utilisées** : HTML5, CSS3, Nginx, Node.js, Ubuntu 24.04 LTS.
+* **Technologies utilisées** : HTML5, CSS3, Nginx, Node.js, Ubuntu.
 * 🔗 https://noah-vosgien-portfolio.duckdns.org/ 
 
 ---
